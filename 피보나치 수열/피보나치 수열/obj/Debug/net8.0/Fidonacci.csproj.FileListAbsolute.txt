@@ -1,0 +1,14 @@
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\obj\Debug\net8.0\Fidonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\obj\Debug\net8.0\Fidonacci.AssemblyInfoInputs.cache
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\obj\Debug\net8.0\Fidonacci.AssemblyInfo.cs
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\obj\Debug\net8.0\Fidonacci.csproj.CoreCompileInputs.cache
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\bin\Debug\net8.0\Fidonacci.exe
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\bin\Debug\net8.0\Fidonacci.deps.json
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\bin\Debug\net8.0\Fidonacci.runtimeconfig.json
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\bin\Debug\net8.0\Fidonacci.dll
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\bin\Debug\net8.0\Fidonacci.pdb
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\obj\Debug\net8.0\Fidonacci.dll
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\obj\Debug\net8.0\refint\Fidonacci.dll
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\obj\Debug\net8.0\Fidonacci.pdb
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\obj\Debug\net8.0\Fidonacci.genruntimeconfig.cache
+C:\Users\LG\Desktop\피보나치 수열\피보나치 수열\obj\Debug\net8.0\ref\Fidonacci.dll
